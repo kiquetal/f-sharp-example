@@ -1,0 +1,3 @@
+dotnet new --lang fsharp
+dotnet restore -f https://www.myget.org/F/netcorecli-fsc-preview2-1/api/v3/index.json
+dotnet run
